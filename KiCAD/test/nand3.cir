@@ -1,0 +1,6 @@
+.title KiCad schematic
+.inc OR1SC.cir
+X1 /A /B VDD VSS Net-_X1-Pad_ na21
+X3 /C /D VDD VSS Net-_X2-Pad_ na21
+X2 Net-_X1-Pad_ Net-_X2-Pad_ VDD VSS /X na21
+.end
